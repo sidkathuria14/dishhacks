@@ -1,0 +1,44 @@
+[
+    {
+        "Text": "I installed dish a couple of months back and I am not satisfied with the service.",
+        "Top5%": "0.4593849629163742",
+        "Emoji_1": "55",
+        "Emoji_2": "32",
+        "Emoji_3": "19",
+        "Emoji_4": "37",
+        "Emoji_5": "1",
+        "Pct_1": "0.11656876",
+        "Pct_2": "0.096929446",
+        "Pct_3": "0.08589358",
+        "Pct_4": "0.08302738",
+        "Pct_5": "0.0769658"
+    },
+    {
+        "Text": "The signal strength is also weak.",
+        "Top5%": "0.3568365052342415",
+        "Emoji_1": "57",
+        "Emoji_2": "45",
+        "Emoji_3": "35",
+        "Emoji_4": "43",
+        "Emoji_5": "55",
+        "Pct_1": "0.15049194",
+        "Pct_2": "0.061121505",
+        "Pct_3": "0.050699674",
+        "Pct_4": "0.048773874",
+        "Pct_5": "0.045749515"
+    },
+    {
+        "Text": "Please give a solution of I will switch my provider.",
+        "Top5%": "0.2953264359384775",
+        "Emoji_1": "21",
+        "Emoji_2": "43",
+        "Emoji_3": "45",
+        "Emoji_4": "27",
+        "Emoji_5": "42",
+        "Pct_1": "0.1777651",
+        "Pct_2": "0.033813775",
+        "Pct_3": "0.029078508",
+        "Pct_4": "0.028151322",
+        "Pct_5": "0.02651773"
+    }
+]
